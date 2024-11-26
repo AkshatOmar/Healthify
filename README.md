@@ -1,4 +1,4 @@
-Healthyfy 🌱
+# Healthyfy 🌱
 Your Personalized Health & Diet Assistant
 
 Healthyfy is a web-based application designed to help users achieve their health goals by providing personalized assistance. From calculating BMI to offering tailored diet plans, Healthyfy empowers users to take control of their health journey effectively.
